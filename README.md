@@ -1,4 +1,4 @@
-## Adafruit Adafruit QT 3V to 5V Level Booster Breakout - STEMMA QT PCB
+## Adafruit QT 3V to 5V Level Booster Breakout - STEMMA QT / Qwiic PCB
 
 <a href="http://www.adafruit.com/products/5649"><img src="assets/5649.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
